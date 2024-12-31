@@ -1,0 +1,40 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.env
+*.venv
+*.virtualenv
+env/
+venv/
+ENV/
+.venv/
+.idea/
+.vscode/
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+*.db-journal
+*.pid
+
+# MkDocs / Documentation
+site/
+
+# Temporary and backup files
+*.swp
+*~
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# PyInstaller
+*.spec
