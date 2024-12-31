@@ -1,17 +1,23 @@
-site_name: Spotify Electron
+site_name: Guruplug
 site_author: Antonio Martinez Fernandez
-repo_url: https://github.com/AntonioMrtz/GuruPlug
-site_description: a
+repo_url: https://github.com/AntonioMrtz/guruplug
+site_description: Guruplug Documentation
 remote_branch: gh-pages
 
 nav:
   - Home: index.md
-  - Developer guides:
-    - Git convention: developer/Git-Convention.md
+  - Serial connection: Serial-connection.md
+  - Unbrick bootloader: Unbrick-bootloader.md
+  - Network issues: Network-issues.md
+  - Update repository sources: Update-repository-sources.md
+  - Boot process: Boot-process.md
+  - Learnt concepts: Learnt-concepts.md
+  - Tethering using USB: Tethering-USB.md
 
 theme:
   logo: assets/logo.png
   name: material
+  favicon: assets/logo.png
   features:
     - navigation.indexes
   palette:

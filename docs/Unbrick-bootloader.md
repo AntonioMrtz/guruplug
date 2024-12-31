@@ -10,7 +10,7 @@ In this section, we will cover how to recover a bricked GuruPlug that cannot be 
 Download the latest U-Boot bootloader for the GuruPlug:
 
 ```console
-wget [http://ftp.debian.org/debian/dists/bullseye/main/installer-armel/current/images/kirkwood/u-boot/GuruPlug/u-boot.kwb](http://ftp.debian.org/debian/dists/bullseye/main/installer-armel/current/images/kirkwood/u-boot/GuruPlug/u-boot.kwb)
+wget http://ftp.debian.org/debian/dists/bullseye/main/installer-armel/current/images/kirkwood/u-boot/GuruPlug/u-boot.kwb
 ```
 
 We must also download the `kwboot` recovery utility. Here is how to do it in Debian systems:
