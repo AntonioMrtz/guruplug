@@ -59,9 +59,9 @@ When the `U-Boot` image is completely sent our GuruPlug will reboot and we shoul
 
 ## Related links
 
-- https://gitlab.com/fosc-space/GuruPlug-2024
 - https://wiki.debian.org/GuruPlugTesting
-- https://oinkzwurgl.org/attic/GuruPlug/GuruPlug_U-Boot/
+- https://gitlab.com/fosc-space/guruplug-2024
+- https://oinkzwurgl.org/attic/guruplug/guruplug_uboot/
 - https://groups.google.com/g/linux.debian.ports.arm/c/NBsvsnRBQp8?pli=1
 - https://en.wikipedia.org/wiki/Das_U-Boot
 - https://manpages.debian.org/bookworm/u-boot-tools/kwboot.1.en.html
