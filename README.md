@@ -14,6 +14,7 @@
 - [ ] Use as UAP
 - [x] Recover from bricked state
 - [x] Upgrade U-Boot
+- [ ] Pihole guruplug
 
 ## Launch server with documentation
 
