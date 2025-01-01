@@ -1,3 +1,3 @@
-#
+# Welcome to GuruPlug
 
-![guruplug-logo](assets/logo.png)
+<img src="assets/guruplug.jpeg" width="600" />

@@ -1,12 +1,14 @@
 # Guruplug
 
+<img src="docs/assets/guruplug.jpeg" width="500" />
+
 ## Goals
 
 - [x] Update OS to Debian 12
 - [x] Boot from SD card or USB
 - [x] Update old mirrors Debian 5
 - [ ] Cross platform compilation for ARM 32 bits armel
-- [ ] Little frontend for storing GuruPlug docs
+- [x] Little frontend for storing GuruPlug docs
 - [ ] Connect to device using bluetooth
 - [ ] Learn to use JTAG
 - [x] Learn to set up serial console tty using JTAG
