@@ -7,12 +7,17 @@ remote_branch: gh-pages
 nav:
   - Home: index.md
   - Serial connection: Serial-connection.md
+  - Going root: Going-root.md
   - Unbrick bootloader: Unbrick-bootloader.md
   - Network issues: Network-issues.md
   - Update repository sources: Update-repository-sources.md
   - Boot process: Boot-process.md
+  - Partition memory layout: Partition-Memory-Layout.md
   - Learnt concepts: Learnt-concepts.md
   - Tethering using USB: Tethering-USB.md
+  - Boot from USB: Boot-from-USB.md
+  - Wifi and Bluetooth drivers: Wifi-Bt-Drivers.md
+  - Power consumption: Power-consumption.md
 
 theme:
   logo: assets/logo.png
