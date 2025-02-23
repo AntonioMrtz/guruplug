@@ -30,9 +30,27 @@ sudo apt-get upgrade
 ```
 
 
-If we get errors related to authentication and keys because of outdated credentials we can do the following:
+## Sources for Debian 11
+
+```console
+deb http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
+
+deb-src http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
+
+deb http://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
+deb-src http://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
+
+# bookworm-updates, to get updates before a point release is made;
+# see https://www.debian.org/doc/manuals/debian-reference/ch02.en.html#_updates_and_backports
+deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
+deb-src http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
+```
+
+
 
 ## Troubleshoot
+
+If we get errors related to authentication and keys because of outdated credentials we can do the following:
 
 ### Manually add keys
 
